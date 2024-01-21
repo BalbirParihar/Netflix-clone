@@ -2,7 +2,7 @@
 
 ### Click Below to see the website
 
-[![Static Badge](https://img.shields.io/badge/Click-me)]()
+[![Static Badge](https://img.shields.io/badge/Click-me)](https://netflix-replica-website.netlify.app/)
 
 Author : Balbir Parihar
 
